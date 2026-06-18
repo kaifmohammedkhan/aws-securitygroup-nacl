@@ -2,15 +2,15 @@
 
 Step-by-step tutorial on VPC, EC2, Security Groups, and NACLs with practical demo.
 
-## 📺 Walkthrough
-<iframe 
-  width="560" height="315" 
-  src="https://www.youtube.com/embed/5QTS06kvwfE?si=tnYn2sV13Dai0Udi" 
-  title="AWS Networking Tutorial" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-</iframe>
+## Access the walkthrough
+
+[![AWS Networking Tutorial](https://img.youtube.com/vi/5QTS06kvwfE/hqdefault.jpg)](https://www.youtube.com/watch?v=5QTS06kvwfE)
+
+[Watch the tutorial on YouTube](https://www.youtube.com/embed/5QTS06kvwfE?si=tnYn2sV13Dai0Udi)
+
+---
+
+*Note: The embedded video is available above for direct viewing.*
 
 ---
 
